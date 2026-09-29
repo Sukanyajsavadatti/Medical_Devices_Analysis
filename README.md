@@ -41,7 +41,6 @@ This project focuses on answering questions such as:
 ## 🛠️ Tools & Technologies
 
 * **SQL (MySQL)** – Data querying, aggregation, filtering, and business analysis
-* **Python** – Data analysis and exploratory analysis
 * **Power BI** – Interactive dashboard and data visualization
 * **Excel/CSV** – Dataset preparation and storage
 
