@@ -1,0 +1,101 @@
+Hospital_ID,Hospital_Name,Hospital_Type,City,State,Region,Bed_Count
+H001,Hubballi Private Hospital 01,Private,Hubballi,Karnataka,South,712
+H002,Coimbatore Private Hospital 02,Private,Coimbatore,Tamil Nadu,South,336
+H003,Tiruchirappalli Government Hospital 03,Government,Tiruchirappalli,Tamil Nadu,South,133
+H004,Kolkata Private Hospital 04,Private,Kolkata,West Bengal,East,914
+H005,Nashik Corporate Hospital 05,Corporate,Nashik,Maharashtra,West,971
+H006,New Delhi Private Hospital 06,Private,New Delhi,Delhi,North,750
+H007,Mysuru Corporate Hospital 07,Corporate,Mysuru,Karnataka,South,171
+H008,Nagpur Private Hospital 08,Private,Nagpur,Maharashtra,West,819
+H009,Nagpur Corporate Hospital 09,Corporate,Nagpur,Maharashtra,West,68
+H010,New Delhi Private Hospital 10,Private,New Delhi,Delhi,North,771
+H011,Kochi Private Hospital 11,Private,Kochi,Kerala,South,605
+H012,Belagavi Government Hospital 12,Government,Belagavi,Karnataka,South,445
+H013,Hyderabad Government Hospital 13,Government,Hyderabad,Telangana,South,363
+H014,Bengaluru Government Hospital 14,Government,Bengaluru,Karnataka,South,608
+H015,Siliguri Private Hospital 15,Private,Siliguri,West Bengal,East,602
+H016,Kochi Corporate Hospital 16,Corporate,Kochi,Kerala,South,71
+H017,Warangal Government Hospital 17,Government,Warangal,Telangana,South,794
+H018,Nizamabad Corporate Hospital 18,Corporate,Nizamabad,Telangana,South,516
+H019,Thiruvananthapuram Government Hospital 19,Government,Thiruvananthapuram,Kerala,South,500
+H020,Madurai Private Hospital 20,Private,Madurai,Tamil Nadu,South,545
+H021,Mysuru Corporate Hospital 21,Corporate,Mysuru,Karnataka,South,835
+H022,Mysuru Government Hospital 22,Government,Mysuru,Karnataka,South,576
+H023,New Delhi Government Hospital 23,Government,New Delhi,Delhi,North,281
+H024,New Delhi Corporate Hospital 24,Corporate,New Delhi,Delhi,North,677
+H025,Belagavi Government Hospital 25,Government,Belagavi,Karnataka,South,921
+H026,Bengaluru Private Hospital 26,Private,Bengaluru,Karnataka,South,577
+H027,Surat Private Hospital 27,Private,Surat,Gujarat,West,818
+H028,Siliguri Private Hospital 28,Private,Siliguri,West Bengal,East,326
+H029,Kolhapur Government Hospital 29,Government,Kolhapur,Maharashtra,West,940
+H030,Mysuru Corporate Hospital 30,Corporate,Mysuru,Karnataka,South,463
+H031,Kolkata Corporate Hospital 31,Corporate,Kolkata,West Bengal,East,761
+H032,Kolkata Private Hospital 32,Private,Kolkata,West Bengal,East,543
+H033,Surat Private Hospital 33,Private,Surat,Gujarat,West,679
+H034,Belagavi Government Hospital 34,Government,Belagavi,Karnataka,South,760
+H035,Siliguri Government Hospital 35,Government,Siliguri,West Bengal,East,279
+H036,Vadodara Government Hospital 36,Government,Vadodara,Gujarat,West,195
+H037,Kozhikode Government Hospital 37,Government,Kozhikode,Kerala,South,881
+H038,Kolhapur Corporate Hospital 38,Corporate,Kolhapur,Maharashtra,West,789
+H039,Warangal Government Hospital 39,Government,Warangal,Telangana,South,186
+H040,Pune Private Hospital 40,Private,Pune,Maharashtra,West,175
+H041,Mysuru Private Hospital 41,Private,Mysuru,Karnataka,South,531
+H042,Thiruvananthapuram Corporate Hospital 42,Corporate,Thiruvananthapuram,Kerala,South,239
+H043,New Delhi Private Hospital 43,Private,New Delhi,Delhi,North,835
+H044,Bengaluru Corporate Hospital 44,Corporate,Bengaluru,Karnataka,South,126
+H045,Pune Private Hospital 45,Private,Pune,Maharashtra,West,533
+H046,Siliguri Government Hospital 46,Government,Siliguri,West Bengal,East,963
+H047,Mangaluru Private Hospital 47,Private,Mangaluru,Karnataka,South,190
+H048,Belagavi Government Hospital 48,Government,Belagavi,Karnataka,South,762
+H049,Kolkata Private Hospital 49,Private,Kolkata,West Bengal,East,222
+H050,Vadodara Private Hospital 50,Private,Vadodara,Gujarat,West,653
+H051,Belagavi Government Hospital 51,Government,Belagavi,Karnataka,South,323
+H052,Vadodara Government Hospital 52,Government,Vadodara,Gujarat,West,367
+H053,Thiruvananthapuram Corporate Hospital 53,Corporate,Thiruvananthapuram,Kerala,South,766
+H054,Salem Private Hospital 54,Private,Salem,Tamil Nadu,South,931
+H055,New Delhi Corporate Hospital 55,Corporate,New Delhi,Delhi,North,455
+H056,Madurai Government Hospital 56,Government,Madurai,Tamil Nadu,South,285
+H057,New Delhi Corporate Hospital 57,Corporate,New Delhi,Delhi,North,962
+H058,Bengaluru Private Hospital 58,Private,Bengaluru,Karnataka,South,390
+H059,Ahmedabad Private Hospital 59,Private,Ahmedabad,Gujarat,West,928
+H060,Kolkata Government Hospital 60,Government,Kolkata,West Bengal,East,198
+H061,Mysuru Government Hospital 61,Government,Mysuru,Karnataka,South,563
+H062,Bengaluru Government Hospital 62,Government,Bengaluru,Karnataka,South,840
+H063,Kochi Private Hospital 63,Private,Kochi,Kerala,South,813
+H064,Pune Private Hospital 64,Private,Pune,Maharashtra,West,749
+H065,Vadodara Government Hospital 65,Government,Vadodara,Gujarat,West,518
+H066,Mumbai Government Hospital 66,Government,Mumbai,Maharashtra,West,661
+H067,Madurai Government Hospital 67,Government,Madurai,Tamil Nadu,South,56
+H068,Warangal Government Hospital 68,Government,Warangal,Telangana,South,138
+H069,Mangaluru Corporate Hospital 69,Corporate,Mangaluru,Karnataka,South,705
+H070,Ahmedabad Corporate Hospital 70,Corporate,Ahmedabad,Gujarat,West,278
+H071,Vadodara Corporate Hospital 71,Corporate,Vadodara,Gujarat,West,647
+H072,Surat Government Hospital 72,Government,Surat,Gujarat,West,835
+H073,Warangal Corporate Hospital 73,Corporate,Warangal,Telangana,South,842
+H074,Madurai Private Hospital 74,Private,Madurai,Tamil Nadu,South,287
+H075,Mysuru Private Hospital 75,Private,Mysuru,Karnataka,South,207
+H076,Nagpur Private Hospital 76,Private,Nagpur,Maharashtra,West,530
+H077,Coimbatore Private Hospital 77,Private,Coimbatore,Tamil Nadu,South,223
+H078,Nashik Corporate Hospital 78,Corporate,Nashik,Maharashtra,West,687
+H079,Nizamabad Private Hospital 79,Private,Nizamabad,Telangana,South,487
+H080,Surat Private Hospital 80,Private,Surat,Gujarat,West,242
+H081,Nizamabad Private Hospital 81,Private,Nizamabad,Telangana,South,118
+H082,New Delhi Government Hospital 82,Government,New Delhi,Delhi,North,324
+H083,New Delhi Corporate Hospital 83,Corporate,New Delhi,Delhi,North,923
+H084,Kochi Government Hospital 84,Government,Kochi,Kerala,South,641
+H085,Belagavi Corporate Hospital 85,Corporate,Belagavi,Karnataka,South,737
+H086,Kolkata Corporate Hospital 86,Corporate,Kolkata,West Bengal,East,436
+H087,Surat Corporate Hospital 87,Corporate,Surat,Gujarat,West,935
+H088,Kolhapur Private Hospital 88,Private,Kolhapur,Maharashtra,West,97
+H089,Kochi Government Hospital 89,Government,Kochi,Kerala,South,173
+H090,Thiruvananthapuram Private Hospital 90,Private,Thiruvananthapuram,Kerala,South,695
+H091,Surat Corporate Hospital 91,Corporate,Surat,Gujarat,West,542
+H092,Thiruvananthapuram Corporate Hospital 92,Corporate,Thiruvananthapuram,Kerala,South,853
+H093,Bengaluru Government Hospital 93,Government,Bengaluru,Karnataka,South,514
+H094,Salem Corporate Hospital 94,Corporate,Salem,Tamil Nadu,South,248
+H095,Salem Corporate Hospital 95,Corporate,Salem,Tamil Nadu,South,827
+H096,Nashik Private Hospital 96,Private,Nashik,Maharashtra,West,556
+H097,Mysuru Government Hospital 97,Government,Mysuru,Karnataka,South,132
+H098,Tiruchirappalli Private Hospital 98,Private,Tiruchirappalli,Tamil Nadu,South,171
+H099,Nizamabad Corporate Hospital 99,Corporate,Nizamabad,Telangana,South,393
+H100,Nizamabad Private Hospital 100,Private,Nizamabad,Telangana,South,669

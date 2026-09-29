@@ -1,0 +1,61 @@
+Device_ID,Device_Name,Device_Category,Manufacturer,Model,Unit_Price,Warranty_Years
+D001,Ultrasound 1,Ultrasound,SonoScape,US-Pro,1308000,2
+D002,Ultrasound 2,Ultrasound,GE Healthcare,SonoView,5211000,4
+D003,Ultrasound 3,Ultrasound,Philips,EchoMax,1289000,1
+D004,Ultrasound 4,Ultrasound,Siemens Healthineers,SonoElite,4774000,5
+D005,Ultrasound 5,Ultrasound,Mindray,U-Prime,4993000,3
+D006,Ultrasound 6,Ultrasound,SonoScape,UltraScan,5138000,2
+D007,Patient Monitor 1,Patient Monitor,Philips,VitalPro,392000,2
+D008,Patient Monitor 2,Patient Monitor,GE Healthcare,IntelliView,252000,4
+D009,Patient Monitor 3,Patient Monitor,Mindray,LifeTrack,371000,4
+D010,Patient Monitor 4,Patient Monitor,Nihon Kohden,CareMonitor,321000,2
+D011,Patient Monitor 5,Patient Monitor,Dräger,MultiView,252000,3
+D012,Patient Monitor 6,Patient Monitor,Philips,VitalMax,171000,1
+D013,ECG 1,ECG,Schiller,Cardio12,220000,3
+D014,ECG 2,ECG,GE Healthcare,ECG-Pro,214000,3
+D015,ECG 3,ECG,Philips,CardioTrace,188000,5
+D016,ECG 4,ECG,BPL Medical,HeartLine,117000,4
+D017,ECG 5,ECG,Nihon Kohden,ECG-Max,183000,2
+D018,ECG 6,ECG,Schiller,CardioView,204000,3
+D019,Ventilator 1,Ventilator,Dräger,VentPro,1147000,2
+D020,Ventilator 2,Ventilator,Hamilton Medical,Respira,556000,3
+D021,Ventilator 3,Ventilator,GE Healthcare,AirCare,1699000,5
+D022,Ventilator 4,Ventilator,Mindray,VentiMax,1468000,2
+D023,Ventilator 5,Ventilator,Philips,BreathSafe,1677000,3
+D024,Ventilator 6,Ventilator,Dräger,RespiraPlus,981000,2
+D025,Infusion Pump 1,Infusion Pump,B. Braun,InfuCare,102000,3
+D026,Infusion Pump 2,Infusion Pump,Fresenius Kabi,FlowPro,53000,2
+D027,Infusion Pump 3,Infusion Pump,Mindray,DoseMax,116000,2
+D028,Infusion Pump 4,Infusion Pump,Terumo,InfuSafe,132000,4
+D029,Infusion Pump 5,Infusion Pump,Baxter,SmartFlow,126000,2
+D030,Infusion Pump 6,Infusion Pump,B. Braun,PumpCare,136000,4
+D031,X-Ray 1,X-Ray,Siemens Healthineers,Radix,4764000,2
+D032,X-Ray 2,X-Ray,GE Healthcare,X-RayPro,7535000,2
+D033,X-Ray 3,X-Ray,Philips,RadiView,3296000,2
+D034,X-Ray 4,X-Ray,Fujifilm,XpressRay,6618000,2
+D035,X-Ray 5,X-Ray,Carestream,RadiaMax,7536000,3
+D036,X-Ray 6,X-Ray,Siemens Healthineers,XVision,1555000,3
+D037,CT Scanner 1,CT Scanner,Siemens Healthineers,CT-Prime,27561000,3
+D038,CT Scanner 2,CT Scanner,GE Healthcare,ScanPro,35270000,3
+D039,CT Scanner 3,CT Scanner,Philips,CT-Max,28685000,2
+D040,CT Scanner 4,CT Scanner,Canon Medical,AcuScan,30768000,2
+D041,CT Scanner 5,CT Scanner,Siemens Healthineers,Tomoview,26507000,3
+D042,CT Scanner 6,CT Scanner,GE Healthcare,CT-Advanced,34057000,3
+D043,MRI 1,MRI,Siemens Healthineers,Magneto,39355000,3
+D044,MRI 2,MRI,GE Healthcare,MR-Pro,77074000,3
+D045,MRI 3,MRI,Philips,MRI-Prime,39981000,2
+D046,MRI 4,MRI,Canon Medical,MagView,65756000,1
+D047,MRI 5,MRI,Siemens Healthineers,ResonanceX,54112000,2
+D048,MRI 6,MRI,GE Healthcare,MR-Advanced,59019000,2
+D049,Anesthesia Machine 1,Anesthesia Machine,Dräger,AnesPro,2486000,2
+D050,Anesthesia Machine 2,Anesthesia Machine,GE Healthcare,AeroCare,2236000,1
+D051,Anesthesia Machine 3,Anesthesia Machine,Mindray,AnesMax,2240000,2
+D052,Anesthesia Machine 4,Anesthesia Machine,Penlon,SafeGas,1206000,3
+D053,Anesthesia Machine 5,Anesthesia Machine,Dräger,AnesView,927000,3
+D054,Anesthesia Machine 6,Anesthesia Machine,GE Healthcare,AeroPlus,1702000,3
+D055,Defibrillator 1,Defibrillator,Philips,DefibPro,474000,4
+D056,Defibrillator 2,Defibrillator,ZOLL,HeartGuard,472000,2
+D057,Defibrillator 3,Defibrillator,Mindray,LifeShock,420000,1
+D058,Defibrillator 4,Defibrillator,Medtronic,DefibMax,196000,3
+D059,Defibrillator 5,Defibrillator,Nihon Kohden,RescueX,681000,2
+D060,Defibrillator 6,Defibrillator,Philips,CardioDefib,512000,3
